@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Permanent :: 故宮e覽 - NPM01</title>
-    <link>https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/permanent/index.html</link>
+    <link>https://muse-101.github.io/jr2025/permanent/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 25 Mar 2024 12:00:00 +0800</lastBuildDate>
-    <atom:link href="https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/permanent/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://muse-101.github.io/jr2025/permanent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>玉器 常設展</title>
-      <link>https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/permanent/9012/index.html</link>
+      <link>https://muse-101.github.io/jr2025/permanent/9012/index.html</link>
       <pubDate>Mon, 25 Mar 2024 12:00:00 +0800</pubDate>
-      <guid>https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/permanent/9012/index.html</guid>
+      <guid>https://muse-101.github.io/jr2025/permanent/9012/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>珍玩 常設展</title>
-      <link>https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/permanent/9014/index.html</link>
+      <link>https://muse-101.github.io/jr2025/permanent/9014/index.html</link>
       <pubDate>Mon, 25 Mar 2024 12:00:00 +0800</pubDate>
-      <guid>https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/permanent/9014/index.html</guid>
+      <guid>https://muse-101.github.io/jr2025/permanent/9014/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>瓷器 常設展</title>
-      <link>https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/permanent/9013/index.html</link>
+      <link>https://muse-101.github.io/jr2025/permanent/9013/index.html</link>
       <pubDate>Mon, 25 Mar 2024 12:00:00 +0800</pubDate>
-      <guid>https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/permanent/9013/index.html</guid>
+      <guid>https://muse-101.github.io/jr2025/permanent/9013/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>銅器 常設展</title>
-      <link>https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/permanent/9011/index.html</link>
+      <link>https://muse-101.github.io/jr2025/permanent/9011/index.html</link>
       <pubDate>Mon, 25 Mar 2024 12:00:00 +0800</pubDate>
-      <guid>https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/permanent/9011/index.html</guid>
+      <guid>https://muse-101.github.io/jr2025/permanent/9011/index.html</guid>
       <description></description>
     </item>
   </channel>
