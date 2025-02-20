@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Room 108 家具 :: 故宮e覽 - NPM01</title>
+    <link>https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/room_108/index.html</link>
+    <description>家具</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 17 Jan 2024 15:36:23 +0800</lastBuildDate>
+    <atom:link href="https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/room_108/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>121 清 雲龍紋畫桌</title>
+      <link>https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/room_108/121/index.html</link>
+      <pubDate>Wed, 17 Jan 2024 15:36:23 +0800</pubDate>
+      <guid>https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/room_108/121/index.html</guid>
+      <description>清 雲龍紋畫桌 https://theme.npm.edu.tw/exh109/QingPalace/</description>
+    </item>
+    <item>
+      <title>122 清 雲龍紋束腰羅漢床</title>
+      <link>https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/room_108/122/index.html</link>
+      <pubDate>Wed, 17 Jan 2024 15:36:23 +0800</pubDate>
+      <guid>https://npm.elearn.hrd.gov.tw/base/10060/door/npm01/room_108/122/index.html</guid>
+      <description>清 雲龍紋束腰羅漢床 https://theme.npm.edu.tw/exh109/QingPalace/</description>
+    </item>
+  </channel>
+</rss>
